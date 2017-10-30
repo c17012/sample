@@ -1,5 +1,4 @@
-# はじめてのGitHub
-## c17012
+# はじめてのGitHub  c17012
 <https://github.com/c17012/sample.git>
 
 # ローカルリポジトリ
